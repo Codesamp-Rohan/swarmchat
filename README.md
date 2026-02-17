@@ -1,6 +1,6 @@
 # swarmchat
 
-A peer-to-peer (P2P) chat application built using and Hyperswarm. This app allows users to chat in real-time without needing a centralized server. No data is saved, so it is only helpful for live chatting, nothing will be saved for future.
+A peer-to-peer (P2P) chat application built using Hyperswarm. This app allows users to chat in real-time without needing a centralized server. No data is saved, so it is only helpful for live chatting, nothing will be saved for future.
 
 ## Tech Stack
 
